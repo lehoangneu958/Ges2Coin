@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Ges2Coin</string>
+    <string name="text_label_page_home">Home</string>
+    <string name="text_label_page_job">Job</string>
+    <string name="text_label_page_support">Support</string>
+    <string name="text_label_page_account">Account</string>
+    <string name="welcome">Welcome, </string>
+    <string name="balance">Balance</string>
+    <string name="waiting">Waiting</string>
+    <string name="warning">Need to remake</string>
+    <string name="getjob">Get Job</string>
+    <string name="getmoney">Get Money</string>
+    <string name="withdrawal">History</string>
+    <string name="invitetitle">Invite your friends to earn money together</string>
+    <string name="invitecontent">Share your earning money opportunity to your friends. Get 5% earnings from people you invited</string>
+    <string name="needsupport">Need Support?</string>
+    <string name="searchhere">Search here...</string>
+    <string name="question">Frequently asked questions?</string>
+    <string name="job_list">Job List</string>
+    <string name="job_worked">Job Worked</string>
+    <string name="earn_coins">Earn coins from servey</string>
+    <string name="remain">"Remain: "</string>
+    <string name="all">All</string>
+    <string name="step_1">Step 1: Take the survey</string>
+    <string name="google_form_content">Take the survey with Google Form via your Broswer.</string>
+    <string name="step_2">Step 2: Get Coin</string>
+    <string name="finish">Finish</string>
+    <string name="finish_content">Click here to get coin after taking the survey.</string>
+    <string name="report">Report</string>
+    <string name="report_content">Report to the system when something was wrong.</string>
+    <string name="detail">Detail</string>
+    <string name="facebook_app_id">774083986484451</string>
+    <string name="fb_login_protocol_scheme">fb774083986484451</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click_here"><u>Click here!</u></string>
+
+</resources>
